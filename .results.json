@@ -1,0 +1,88 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 5,
+    "passes": 5,
+    "pending": 0,
+    "failures": 0,
+    "start": "2017-10-18T18:10:06.264Z",
+    "end": "2017-10-18T18:10:06.341Z",
+    "duration": 77
+  },
+  "tests": [
+    {
+      "title": "returns the initial state after redux dispatches its initial action",
+      "fullTitle": "store returns the initial state after redux dispatches its initial action",
+      "duration": 11,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a state provided by the store",
+      "fullTitle": "store returns a state provided by the store",
+      "duration": 12,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "updates the props as more users are added to the stores state",
+      "fullTitle": "store updates the props as more users are added to the stores state",
+      "duration": 12,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "displays the users in the users component",
+      "fullTitle": "store displays the users in the users component",
+      "duration": 10,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "adds a prop called primary user to the users component which is the first user in the store",
+      "fullTitle": "store adds a prop called primary user to the users component which is the first user in the store",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "returns the initial state after redux dispatches its initial action",
+      "fullTitle": "store returns the initial state after redux dispatches its initial action",
+      "duration": 11,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "returns a state provided by the store",
+      "fullTitle": "store returns a state provided by the store",
+      "duration": 12,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "updates the props as more users are added to the stores state",
+      "fullTitle": "store updates the props as more users are added to the stores state",
+      "duration": 12,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "displays the users in the users component",
+      "fullTitle": "store displays the users in the users component",
+      "duration": 10,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "adds a prop called primary user to the users component which is the first user in the store",
+      "fullTitle": "store adds a prop called primary user to the users component which is the first user in the store",
+      "duration": 5,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
